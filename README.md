@@ -6,4 +6,8 @@ vision, the areas of the brain in blind people normally devoted to handling that
 using an Audiovisual Tactile Map tactile modalities have also shown to be effective in nonvisual navigation (Geronazzo, Bedin, Brayda, Campus, & Avanzini, 2016). A pertinent use case for this map is for public transit but it is a cost-effective solution (~ £50) that can be implemented in various languages and placed near the entrances and stairs/elevators on every floor in a wide variety of buildings and venues such as exhibits or museums, leisure facilities, office buildings and shopping centres to replace existing floor plans that are largely designed for the sighted.
 A second use case of this technology that merges modern and traditional interactions for the visually impaired is teaching young children how to read Braille (refer to video Demo2). Painting conductive ink under or over Braille lettering enables users to hear the letters or words out loud as they are reading them with their fingers without having to rely on a sighted partner for guidance.
 
-https://github.com/mehrvaswani/AudioVisual-Tactile-Floor-Plan-Arduino/issues/1#issue-1244328658
+https://user-images.githubusercontent.com/100088624/169709615-59145d00-3928-43c4-ba9c-e1e0791bc946.jpg
+![IMG_2251](https://user-images.githubusercontent.com/100088624/169709620-31139a3e-85d9-42ab-bfcc-183bfb4ab275.jpg)
+![IMG_2310](https://user-images.githubusercontent.com/100088624/169709623-809654a0-a387-47f6-94b2-6c11109efab8.jpg)
+![IMG_2312](https://user-images.githubusercontent.com/100088624/169709626-855adc33-4811-4fe0-b4e8-b6d04a02a228.jpg)
+)
